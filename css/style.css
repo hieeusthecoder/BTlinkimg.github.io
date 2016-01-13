@@ -1,0 +1,13 @@
+img{
+	max-width: 500px;
+	max-height: 500px;
+}
+
+a:link    {color:green; background-color:transparent; text-decoration:none}
+a:visited {color:blue; background-color:transparent; text-decoration:none}
+a:hover   {color:red; background-color:transparent; text-decoration:underline}
+a:active  {color:yellow; background-color:transparent; text-decoration:underline}
+
+.front {
+	max-width: 300px;
+}
